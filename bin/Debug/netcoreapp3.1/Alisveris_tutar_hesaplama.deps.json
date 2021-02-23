@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Alisveris_tutar_hesaplama/1.0.0": {
+        "runtime": {
+          "Alisveris_tutar_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alisveris_tutar_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

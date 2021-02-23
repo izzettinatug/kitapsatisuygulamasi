@@ -1,0 +1,15 @@
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\bin\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.exe
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\bin\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.deps.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\bin\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.runtimeconfig.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\bin\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.runtimeconfig.dev.json
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\bin\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\bin\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.csprojAssemblyReference.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.Form1.resources
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.csproj.GenerateResource.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.AssemblyInfoInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.AssemblyInfo.cs
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.dll
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.pdb
+C:\Users\İzzettin ATUĞ\Source\Repos\Alisveris_tutar_hesaplama\Alisveris_tutar_hesaplama\obj\Debug\netcoreapp3.1\Alisveris_tutar_hesaplama.genruntimeconfig.cache
